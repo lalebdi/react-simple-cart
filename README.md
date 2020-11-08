@@ -12,7 +12,7 @@ We developed this project when learning the fundamentals of React. It demonstrat
 
 ### Cart page
 
-<img src="demo/cart.jpg"/>
+
 
 ## Environment
 
