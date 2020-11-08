@@ -17,7 +17,7 @@ We developed this project when learning the fundamentals of React. It demonstrat
 ## Environment
 
 + React Version:  17.0.1
-+ Development Machine: macOS Catalina Version 10.15
+
 + Development IDE: Visual Studio Code
 + NodeJS: v13.10.1
 + NPM: 6.13.7
