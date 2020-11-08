@@ -18,7 +18,7 @@ We developed this project when learning the fundamentals of React. It demonstrat
 
 + React Version:  17.0.1
 
-+ Development IDE: Visual Studio Code
+
 + NodeJS: v13.10.1
 + NPM: 6.13.7
 
