@@ -4,7 +4,7 @@ This is a very simple shopping cart powered by React. No state containers such a
 
 We developed this project when learning the fundamentals of React. It demonstrates the power of React. Hope you find it useful.
 
-## Screenshots
+
 
 
 
