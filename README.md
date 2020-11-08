@@ -13,7 +13,6 @@ We developed this project when learning the fundamentals of React. It demonstrat
 
 
 
-
 ## Environment
 
 + React Version:  17.0.1
